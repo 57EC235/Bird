@@ -1,0 +1,14 @@
+.container {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.weather-info {
+  margin-top: 20px;
+}
+
+#weather-icon {
+  width: 100px;
+  height: 100px;
+}
